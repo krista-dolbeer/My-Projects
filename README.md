@@ -13,5 +13,4 @@ Hi, welcome to my repo showcasing my projects! Please click on the project's tit
 
 | Project Name        | Description           | Skills Utilized  |
 | ------------------- |:---------------------:| --------------:|
-| [Analysis: Term Deposit Marketing Campaign](https://github.com/kegraham91/My-Projects/blob/main/Data%20Analytics_Banking%20Data.pdf) | A bank conducted a telemarketing campaign and provided client data, with the goal of focusing their marketing efforts on clients most likely to subscribe to term deposit. (Please see page 17 for the executive summary)| <b>Excel:</b> data cleaning, PivotTables, chart/graph building, and filtering. 
-<b>Other:</b>Data modeling, evaluating results (overfitting, confounding). |
+| [Analysis: Term Deposit Marketing Campaign](https://github.com/kegraham91/My-Projects/blob/main/Data%20Analytics_Banking%20Data.pdf) | A bank conducted a telemarketing campaign and provided client data, with the goal of focusing their marketing efforts on clients most likely to subscribe to term deposit. (Please see page 17 for the executive summary)| <b>Excel:</b> data cleaning, PivotTables, chart/graph building, and filtering. <b>Other:</b>Data modeling, evaluating results (overfitting, confounding). |
