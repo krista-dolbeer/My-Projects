@@ -1,4 +1,4 @@
-# My-Projects
+# My Projects
 Hi, welcome to my repo showcasing my projects! Please click on the project's title to review my work. Thank you!
 
 # SQL
