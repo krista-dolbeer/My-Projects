@@ -1,2 +1,2 @@
 # My-Projects
-Repository for my 
+Repository showcasing my past projects
