@@ -9,4 +9,8 @@ Hi, welcome to my repo showcasing my projects! Please click on the project's tit
 | [Analyzing NYC Public School Test Result Scores](https://github.com/kegraham91/My-Projects/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)  | I looked at how NYC schools' performance varies by borough, identified how many schools fail to report information, and find the top ten performing schools across the city.   |   Summary statistics, filtering, aggregate functions, grouping and sorting, rounding and aliasing |
 |  |  |   |
 
+# Other Projects
 
+| Project Name        | Description           | Skills Utilized  |
+| ------------------- |:---------------------:| --------------:|
+| Analysis: Term Deposit Marketing Campaign | A bank conducted a telemarketing campaign and provided client data, with the goal of focusing their marketing efforts on clients most likely to subscribe to term deposit. I analysed the data and provided my recommendation (Please see page 17 for the executive summary)| Excel: data cleaning, PivotTables, chart/graph building, and filtering. Data modeling, evaluating results (overfitting, confounding). |
