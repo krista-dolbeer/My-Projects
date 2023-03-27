@@ -13,7 +13,7 @@ Hi, welcome to my repo showcasing my projects! Please click on the project's tit
 
 | Project Name        | Description          | Python Functions  | Libraries Used  |
 | :------------------- |:---------------------:| :--------------:| :---------------------:|
-| [Project Name](project URL)     | Description Here. | EDA, Logistic Regression | pandas, matplotlib, seaborn, sklearn
+| [Term Deposit Subscribership Prediction]([project URL](https://github.com/kegraham91/My-Projects/blob/main/graham-krista-bta419-w23%20(2).ipynb))     | The Portuguese Banking Institution needs to focus their marketing efforts on clients who are at a higher likelihood of purchasing a term deposit. Out of the bank’s existing customers, which demographics are most likely to sign up for a term deposit? | EDA, Logistic Regression | pandas, matplotlib, seaborn, sklearn
 |  |  |   |
 
 # Other Projects
